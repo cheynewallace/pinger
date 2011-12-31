@@ -1,4 +1,5 @@
-<center><img src="http://themonitoringguy.com/wp-content/uploads/2009/11/ping_v15.jpg" alt="Pinger"/></center>
+<img style="text-align:center" src="http://themonitoringguy.com/wp-content/uploads/2009/11/ping_v15.jpg" alt="Pinger"/>
+<br/>
 <strong>Pinger!</strong> is a tiny ping utility (13KB) that is used to quickly ping a large list of hosts and save the resulting successful and failure host lists into a text file.
 <h2>Why?</h2>
 When developing scripts and applications that will touch a large number of hosts,  if many of those hosts are offline or no longer exist, the timeouts involved with this can slow down execution time and dramatically slow down your script or application.
