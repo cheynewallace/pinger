@@ -1,3 +1,4 @@
+<center><img src="http://themonitoringguy.com/wp-content/uploads/2009/11/ping_v15.jpg" alt="Pinger"/></center>
 <strong>Pinger!</strong> is a tiny ping utility (13KB) that is used to quickly ping a large list of hosts and save the resulting successful and failure host lists into a text file.
 <h2>Why?</h2>
 When developing scripts and applications that will touch a large number of hosts,  if many of those hosts are offline or no longer exist, the timeouts involved with this can slow down execution time and dramatically slow down your script or application.
@@ -23,4 +24,7 @@ Simply extract the .zip containing Pinger.exe and hosts.txt to the same director
 	<li><strong>failure.txt</strong> - The list of hosts that failed to ping, in line by line format.</li>
 	<li><strong>ip_info.txt</strong> - If option 2 is selected, this will list the hostname and the IP address's assigned to this host.</li>
 </ul>
-<p style="text-align: center;">&nbsp;</p>
+<h2>Batch Usage</h2>
+Pinger! can be called from the command line for batch usage, simply called the .exe with a single parameter (1 or 2).
+<br/><i>eg.  "Pinger.exe 2"</i>
+
